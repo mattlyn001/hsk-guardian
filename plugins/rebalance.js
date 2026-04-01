@@ -23,6 +23,9 @@ async function askAI(prompt) {
     })
   });
   const data = await res.json();
+  if (!data.choices || !data.choices[0] || !data.choices[0].message) {
+    return 'AI analysis temporarily unavailable. Please try again.';
+  }
   return data.choices[0].message.content;
 }
 
