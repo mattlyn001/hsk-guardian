@@ -1,0 +1,20 @@
+{
+  "name": "hsk-guardian",
+  "version": "1.0.0",
+  "description": "AI-powered DeFi agent on HashKey Chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "mattlyn001",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0",
+    "express": "^5.2.1",
+    "solc": "^0.8.34"
+  }
+}

@@ -1,0 +1,6 @@
+.env
+node_modules/
+contract/deployed_address.txt
+deploy.js
+write-frontend.js
+write-readme.js
