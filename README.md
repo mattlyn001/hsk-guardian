@@ -1,6 +1,6 @@
 # HSK Guardian
 
-> AI-powered DeFi agent on HashKey Chain — monitors wallets, scores risk, finds yield, and rebalances portfolios autonomously.
+> AI powered DeFi agent on HashKey Chain it monitors wallets, scores risk, finds yield, and rebalances portfolios autonomously.
 
 ## Live Deployment
 
